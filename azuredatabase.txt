@@ -1,0 +1,21 @@
+  "host": "server675847428.postgres.database.azure.com",
+  "password": "5f8ea92b-eb8c-4587-9a41-f02e0c29d952",
+  "username": "madBaboon1@server675847428"
+}
+
+  "host": "samuelatumaokparasaake.postgres.database.azure.com",
+  "password": "2888627777sAM!",
+  "username": "samuelatuma@samuelatumaokparasaake"
+}
+{
+  "URL": "http://samuelatumaokparapolls.azurewebsites.net",
+  "appserviceplan": "DjangoPostgres-tutorial-plan",
+  "location": "westus2",
+  "name": "samuelAtumaOkparaPolls",
+  "os": "Linux",
+  "resourcegroup": "DjangoPostgres-tutorial-rg",
+  "runtime_version": "python|3.7",
+  "runtime_version_detected": "-",
+  "sku": "BASIC",
+  "src_path": "C:\\Users\\Atuma Samuel\\djangoapp"
+}
